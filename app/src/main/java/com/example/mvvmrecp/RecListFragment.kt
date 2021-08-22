@@ -56,6 +56,7 @@ import kotlinx.coroutines.launch
 import javax.inject.Inject
 
 //import androidx.ui.foundation.Text
+//******************************COMMENTS ARE JUST SOME EXERCIZES BEFORE I WRITE THE ACTUAL CODE******************
 @ExperimentalMaterialApi
 @ExperimentalCoroutinesApi
 @AndroidEntryPoint
